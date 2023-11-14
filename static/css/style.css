@@ -1,0 +1,8 @@
+/* Your custom styles go here */
+body {
+    padding-top: 0px;
+    background-color: red;
+}
+.navbar-custom{
+  background-color: blueviolet !important;
+}
